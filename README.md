@@ -1,2 +1,2 @@
 # js30_project_1
-JavaScript30 from Wes Bos
+JavaScript30 from Wes Bos #javascript30
